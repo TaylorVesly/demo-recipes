@@ -2,6 +2,42 @@
   background: #ef8d8d;
   font-family: Verdana, Tahoma, sans-serif;
   box-sizing: border-box;
-  text-align: center;
   line-height: 1.6em;
+}
+
+.recipe {
+  text-align: center;
+}
+
+.homelinks li {
+  list-style-type: none;
+  border: 2px black solid;
+  padding: 10px;
+  margin-bottom: 12px;
+  text-align: center;
+  background-color: #a9a9a9;
+  color: #000;
+}
+
+.ingredients,
+.steps {
+  color: #484848;
+  list-style-type: none;
+}
+
+.h3 {
+  font-style: italic;
+  text-decoration-line: underline;
+}
+
+.steps {
+  margin-bottom: 75px;
+}
+
+.homepage h1 {
+  text-align: center;
+}
+
+.span {
+  width: 50%;
 }
